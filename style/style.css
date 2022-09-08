@@ -1,4 +1,14 @@
-#outputDiv {
-  display: none;
-  
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+h3 {
+  font-family: 'Oswald', sans-serif;
 }
+
+body {
+  
+    background-image: url("https://mediacloud.theweek.com/image/private/s--e7YypXiU--/f_auto,t_primary-image-mobile@1/v1608153534/57106_article_full.jpg");
+    color: red;
+  }
+  #outputDiv {
+    display: none;
+    
+  }
