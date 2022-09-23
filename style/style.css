@@ -13,15 +13,16 @@ h3 {
 body {
   
     background-image: url("https://static.vecteezy.com/system/resources/previews/003/590/674/non_2x/doge-coin-on-fire-red-background-and-stars-free-vector.jpg");
-    color: red;
+    color: gold;
+    font-size:x-large;
+    font-weight: bolder;
+
   }
   #outputDiv {
     display: none;
     
   }
-  .navbar-nav {
-    font-size: 12px;
-  }
+  
   .navbar-link{
     color:blue;
     font-weight: bolder;
