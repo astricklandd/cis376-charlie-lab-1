@@ -21,6 +21,9 @@ body {
   }
   .navbar-nav {
     font-size: 12px;
-    height:4px;
-    width:4px;
+  }
+  .navbar-link{
+    color:blue;
+    font-weight: bolder;
+    font-size:medium;
   }
