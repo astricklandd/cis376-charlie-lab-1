@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+h1{
+  color:white;
+  font-family: 'Bungee Spice', cursive;
+}
 h3 {
   font-family: 'Oswald', sans-serif;
 }
@@ -7,10 +12,15 @@ h3 {
 }
 body {
   
-    background-image: url("https://mediacloud.theweek.com/image/private/s--e7YypXiU--/f_auto,t_primary-image-mobile@1/v1608153534/57106_article_full.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/previews/003/590/674/non_2x/doge-coin-on-fire-red-background-and-stars-free-vector.jpg");
     color: red;
   }
   #outputDiv {
     display: none;
     
+  }
+  .navbar-nav {
+    font-size: 12px;
+    height:4px;
+    width:4px;
   }
